@@ -8,6 +8,8 @@ I completed below tasks,
 - **Questions List**: Make *published_at* readable to humans.
 - **Questions List**: Sort questions by published date, with new questions on the bottom.
 
-I tried in my best. It is taking time time understand the flow and I faced some issue to connect to API as well.
+I tried in my best. It is taking time to understand the code structure and I faced some issues while triggering API call for the existing services.
 
-I am an Angular developer. I am familiar with Angular Redux with NGRX.
+I have a few experience only in React.
+
+I am very good in Object Oriented JS, Design patterns, Angular5 with NGRX Redux, ES6, CSS3, Grids, HTML5 etc.
